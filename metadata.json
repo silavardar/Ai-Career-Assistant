@@ -1,0 +1,6 @@
+{
+  "name": "Vantage: AI Mülakat & Kariyer Koçu",
+  "description": "Mülakatçı unvanına göre stratejik soru üretimi, LinkedIn ve CV tabanlı kariyer/eğitim yol haritası ve yazılı/sesli mülakat simülasyonu ile STAR performans analizi platformu.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
